@@ -1,5 +1,5 @@
 /* ============================================
-   PAPELES.ES — Design Tokens & Component Styles
+   MoralesGarcia — Design Tokens & Component Styles
    ============================================ */
 
 :root {
@@ -31,7 +31,7 @@
   --space-24: 6rem;
   --space-32: 8rem;
 
-  /* PAPELES.ES Colors — Custom palette */
+  /* MoralesGarcia Colors — Custom palette */
   --color-bg:              #fafaf9;
   --color-surface:         #ffffff;
   --color-surface-2:       #f1f5f9;

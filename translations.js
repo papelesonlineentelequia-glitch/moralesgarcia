@@ -1,5 +1,5 @@
 // ============================================
-// PAPELES.ES — Translations
+// MoralesGarcia — Translations
 // ============================================
 
 const translations = {
@@ -41,7 +41,7 @@ const translations = {
     // Booking
     book_label: "Consultation",
     book_title: "Prenez rendez-vous avec nos experts",
-    book_desc: "Passez d'abord notre test d'éligibilité rapide. Si vous remplissez les conditions, vous aurez un accès direct à notre calendrier.",
+    book_desc: "Faites d'abord notre test d'éligibilité. Si votre dossier est viable, vous accéderez à notre plateforme pour valider votre étude de faisabilité.",
     book_cta: "Prendre RDV",
 
     // Trust
@@ -80,6 +80,17 @@ const translations = {
     about_pvu_2: "Zéro fausse promesse : des prix clairs et des attentes réalistes dès le départ.",
     about_pvu_3: "Prévention des erreurs : examen juridique préalable qui minimise les mauvaises surprises.",
     footer_disclaimer: "Ce service fournit une gestion administrative, pas des conseils juridiques. Este servicio proporciona gestión administrativa, no asesoramiento jurídico.",
+    pricing_badge: "Tarifs",
+    pricing_title: "Ne laissez pas votre avenir au hasard lors de l'engorgement d'avril",
+    pricing_desc: "En avril 2026, plus de 800 000 personnes tenteront de se régulariser. Le système de l'immigration va se bloquer. Quiconque n'a pas son dossier audité et prêt à appuyer sur le bouton « Envoyer » sera laissé de côté.",
+    pricing_roadmap: "Votre Feuille de Route Légale :",
+    pricing_step1_title: "1. Étude de faisabilité (50 €)",
+    pricing_step1_desc: "Nous révisons vos antécédents et vos preuves de séjour de 5 mois pour nous assurer que votre demande ne sera pas refusée. En payant, vous entrez dans notre <b>Liste Prioritaire</b> pour la soumettre le premier jour du délai.",
+    pricing_step2_title: "2. Gestion Complète (350 € restants)",
+    pricing_step2_desc: "Nous présentons votre demande par voie télématique, nous gérons vos taxes et nous vous accompagnons jusqu'à ce que vous ayez votre TIE en main. <br><br><i>Remarque: Les 50 € initiaux sont déduits du total. Si vous décidez de ne pas continuer, vous n'aurez investi que 50 € dans des conseils d'experts au lieu de risquer une expulsion.</i>",
+    pricing_total: "Total : 400 €",
+    pricing_total_big: "Prix Total : 400 €",
+    pricing_tax_included: "(Taxes incluses)",
   },
 
   en: {
@@ -115,7 +126,7 @@ const translations = {
 
     book_label: "Consultation",
     book_title: "Schedule a call with our experts",
-    book_desc: "Take our quick eligibility test first. If your case is viable, you'll get instant access to our calendar.",
+    book_desc: "Take our quick eligibility test first. If your case is viable, you'll get instant access to validate your feasibility study.",
     book_cta: "Book now",
 
     trust_people: "people helped",
@@ -150,6 +161,17 @@ const translations = {
     about_pvu_2: "Zero empty promises: clear pricing and realistic expectations from the beginning.",
     about_pvu_3: "Error prevention: thorough preliminary review that minimizes unpleasant surprises.",
     footer_disclaimer: "This service provides administrative management, not legal advice.",
+    pricing_badge: "Pricing",
+    pricing_title: "Don't leave your future to chance in the April collapse",
+    pricing_desc: "In April 2026, more than 800,000 people will try to regularize. The Immigration system will be blocked. Whoever does not have their file audited and ready to press the 'Send' button will be left out.",
+    pricing_roadmap: "Your Legal Roadmap:",
+    pricing_step1_title: "1. Feasibility Study (50 €)",
+    pricing_step1_desc: "We review your background and evidence of your 5-month stay to ensure your process is not denied. By paying, you enter our <b>Priority List</b> to submit on the first day.",
+    pricing_step2_title: "2. Complete Management (350 € remaining)",
+    pricing_step2_desc: "We submit your application electronically, manage your taxes, and accompany you until you have your TIE in hand. <br><br><i>Note: The initial 50 € are deducted from the total. If you decide not to continue, you will only have invested 50 € in expert advice instead of risking deportation.</i>",
+    pricing_total: "Total: 400 €",
+    pricing_total_big: "Total Price: 400 €",
+    pricing_tax_included: "(Taxes included)",
   },
 
   es: {
@@ -205,7 +227,7 @@ const translations = {
 
     book_label: "Consulta",
     book_title: "Agenda una llamada con nosotros",
-    book_desc: "Completa nuestro rápido test de elegibilidad primero. Si tu caso es viable, accederás al instante a nuestro calendario.",
+    book_desc: "Completa nuestro rápido test de elegibilidad primero. Si tu caso es viable, accederás al instante a la reserva de tu estudio de viabilidad.",
     book_cta: "Agendar llamada",
 
     trust_people: "personas acompañadas",
@@ -223,6 +245,17 @@ const translations = {
     footer_nav: "Navegación",
     footer_contact: "Contacto",
     footer_disclaimer: "Este servicio proporciona gestión administrativa, no asesoramiento jurídico. This service provides administrative management, not legal advice.",
+    pricing_badge: "Precios",
+    pricing_title: "No dejes tu futuro al azar en el colapso de abril",
+    pricing_desc: "En abril de 2026, más de 800.000 personas intentarán regularizarse. El sistema de Extranjería se va a bloquear. Quien no tenga su expediente auditado y listo para apretar el botón de 'Enviar', se quedará fuera.",
+    pricing_roadmap: "Tu Hoja de Ruta Legal:",
+    pricing_step1_title: "1. Estudio de Viabilidad (50 €)",
+    pricing_step1_desc: "Revisamos tus antecedentes y pruebas de estancia de 5 meses para asegurar que no te denieguen el trámite. Al pagar, entras en nuestra <b>Lista Prioritaria</b> para presentar el primer día de plazo.",
+    pricing_step2_title: "2. Gestión Completa (350 € restantes)",
+    pricing_step2_desc: "Presentamos tu solicitud por vía telemática, gestionamos tus tasas y te acompañamos hasta que tengas tu TIE en la mano. <br><br><i>Nota: Los 50 € iniciales se descuentan del total (400 €). Si decides no seguir, solo habrás invertido 50 € en una asesoría experta en lugar de arriesgarte a una expulsión.</i>",
+    pricing_total: "Total: 400 €",
+    pricing_total_big: "Precio Total: 400 €",
+    pricing_tax_included: "(Impuestos incluidos)",
   }
 };
 
@@ -231,7 +264,7 @@ const translations = {
 // ============================================
 const servicesData = {
   fr: [
-    { id: "arraigo-social", title: "Arraigo Social", desc: "Résidence après 3 ans en Espagne avec un contrat de travail ou des liens familiaux.", icon: "users", highlighted: false },
+    { id: "arraigo-social", title: "Arraigo Social", desc: "Résidence après 2 ans en Espagne avec un contrat de travail ou des liens familiaux.", icon: "users", highlighted: false },
     { id: "arraigo-sociolaboral", title: "Arraigo Sociolaboral", desc: "Pour ceux qui ont une offre d'emploi d'un employeur espagnol.", icon: "briefcase", highlighted: false },
     { id: "arraigo-laboral", title: "Arraigo Laboral", desc: "Si vous avez travaillé en Espagne pendant au moins 6 mois.", icon: "clipboard", highlighted: false },
     { id: "arraigo-familiar", title: "Arraigo Familiar", desc: "Si vous avez un enfant citoyen de l'UE ou des liens familiaux en Espagne.", icon: "heart", highlighted: false },
@@ -240,7 +273,7 @@ const servicesData = {
     { id: "renovacion", title: "Renouvellement", desc: "Renouvelez votre titre de séjour avant qu'il n'expire.", icon: "refresh", highlighted: false },
   ],
   en: [
-    { id: "arraigo-social", title: "Arraigo Social", desc: "Residence after 3 years in Spain with a work contract or family ties.", icon: "users", highlighted: false },
+    { id: "arraigo-social", title: "Arraigo Social", desc: "Residence after 2 years in Spain with a work contract or family ties.", icon: "users", highlighted: false },
     { id: "arraigo-sociolaboral", title: "Arraigo Sociolaboral", desc: "For those with a job offer from a Spanish employer.", icon: "briefcase", highlighted: false },
     { id: "arraigo-laboral", title: "Arraigo Laboral", desc: "If you've worked in Spain for at least 6 months.", icon: "clipboard", highlighted: false },
     { id: "arraigo-familiar", title: "Arraigo Familiar", desc: "If you have a child who is an EU citizen or family ties in Spain.", icon: "heart", highlighted: false },
@@ -249,7 +282,7 @@ const servicesData = {
     { id: "renovacion", title: "Renewal", desc: "Renew your residence permit before it expires.", icon: "refresh", highlighted: false },
   ],
   es: [
-    { id: "arraigo-social", title: "Arraigo Social", desc: "Residencia tras 3 años en España con contrato de trabajo o vínculos familiares.", icon: "users", highlighted: false },
+    { id: "arraigo-social", title: "Arraigo Social", desc: "Residencia tras 2 años en España con contrato de trabajo o vínculos familiares.", icon: "users", highlighted: false },
     { id: "arraigo-sociolaboral", title: "Arraigo Sociolaboral", desc: "Para quienes tienen una oferta de empleo de un empleador español.", icon: "briefcase", highlighted: false },
     { id: "arraigo-laboral", title: "Arraigo Laboral", desc: "Si has trabajado en España durante al menos 6 meses.", icon: "clipboard", highlighted: false },
     { id: "arraigo-familiar", title: "Arraigo Familiar", desc: "Si tienes un hijo ciudadano de la UE o vínculos familiares en España.", icon: "heart", highlighted: false },
@@ -350,11 +383,11 @@ const funnelData = {
     endings: {
       end_eu: { title: "Bonne nouvelle !", desc: "En tant que citoyen de l'UE, vous bénéficiez de la libre circulation. Vous n'avez pas besoin d'arraigo.", icon: "check" },
       end_renewal: { title: "Renouvellement nécessaire", desc: "Vous avez peut-être besoin d'un renouvellement. Contactez-nous pour vérifier votre situation.", icon: "refresh", cta: true },
-      end_wait: { title: "Régularisation Extraordinaire", desc: "Si vous étiez en Espagne avant le 31 déc. 2025, vous pourriez être éligible à la Régularisation Extraordinaire. Remplissez ceci pour évaluer votre cas.", icon: "clock", email: true },
+      end_wait: { title: "Régularisation Extraordinaire", desc: "Si vous étiez en Espagne avant le 31 déc. 2025, vous pourriez être éligible à la Régularisation Extraordinaire. Remplissez ceci pour évaluer votre cas.", icon: "clock", cta: true },
       end_consult_absence: { title: "Consultation recommandée", desc: "Vos absences peuvent affecter votre éligibilité. Prenez rendez-vous pour une consultation personnalisée.", icon: "alert", cta: true },
       end_consult_criminal: { title: "Consultation recommandée", desc: "Prenez rendez-vous pour discuter de votre situation en toute confidentialité.", icon: "alert", cta: true },
       result_sociolaboral: { title: "Votre résultat", type: "ARRAIGO SOCIOLABORAL", desc: "Vous pourriez être éligible à l'arraigo sociolaboral grâce à votre offre d'emploi.", cta: true, checklist: ["Passeport valide", "Certificat de casier judiciaire", "Padron (certificat de résidence)", "Contrat de travail ou offre d'emploi", "Rapport d'intégration sociale"] },
-      result_social: { title: "Votre résultat", type: "ARRAIGO SOCIAL", desc: "Vous pourriez être éligible à l'arraigo social grâce à vos liens familiaux.", cta: true, checklist: ["Passeport valide", "Certificat de casier judiciaire", "Padron (certificat de résidence)", "Preuve de 3 ans de résidence", "Contrat de travail", "Rapport d'intégration sociale"] },
+      result_social: { title: "Votre résultat", type: "ARRAIGO SOCIAL", desc: "Vous pourriez être éligible à l'arraigo social grâce à vos liens familiaux.", cta: true, checklist: ["Passeport valide", "Certificat de casier judiciaire", "Padron (certificat de résidence)", "Preuve de 2 ans de résidence", "Contrat de travail", "Rapport d'intégration sociale"] },
       result_laboral: { title: "Votre résultat", type: "ARRAIGO LABORAL", desc: "Vous pourriez être éligible à l'arraigo laboral grâce à votre expérience professionnelle.", cta: true, checklist: ["Passeport valide", "Certificat de casier judiciaire", "Padron (certificat de résidence)", "Preuve de 6+ mois de travail", "Rapport d'inspection du travail"] },
       result_formacion: { title: "Votre résultat", type: "ARRAIGO POR FORMACIÓN", desc: "Vous pourriez être éligible à l'arraigo par formation.", cta: true, checklist: ["Passeport valide", "Certificat de casier judiciaire", "Padron (certificat de résidence)", "Inscription en formation professionnelle", "Certificat du centre de formation"] },
       result_familiar: { title: "Votre résultat", type: "ARRAIGO FAMILIAR", desc: "Vous pourriez être éligible à l'arraigo familiar.", cta: true, checklist: ["Passeport valide", "Certificat de casier judiciaire", "Acte de naissance de l'enfant", "Preuve de citoyenneté UE de l'enfant", "Padron (certificat de résidence)"] },
@@ -427,11 +460,11 @@ const funnelData = {
     endings: {
       end_eu: { title: "Good news!", desc: "As an EU citizen, you have free movement rights. You don't need arraigo.", icon: "check" },
       end_renewal: { title: "Renewal needed", desc: "You may need a renewal. Contact us to check your situation.", icon: "refresh", cta: true },
-      end_wait: { title: "Extraordinary Regularization", desc: "If you were in Spain before Dec 31, 2025, you might be eligible for the Extraordinary Regularization. Fill this out to evaluate your case.", icon: "clock", email: true },
+      end_wait: { title: "Extraordinary Regularization", desc: "If you were in Spain before Dec 31, 2025, you might be eligible for the Extraordinary Regularization. Fill this out to evaluate your case.", icon: "clock", cta: true },
       end_consult_absence: { title: "Consultation recommended", desc: "Your absences may affect your eligibility. Book a personalized consultation.", icon: "alert", cta: true },
       end_consult_criminal: { title: "Consultation recommended", desc: "Book a consultation to discuss your case confidentially.", icon: "alert", cta: true },
       result_sociolaboral: { title: "Your result", type: "ARRAIGO SOCIOLABORAL", desc: "You may be eligible for arraigo sociolaboral thanks to your job offer.", cta: true, checklist: ["Valid passport", "Criminal record certificate", "Padron (residence certificate)", "Employment contract or job offer", "Social integration report"] },
-      result_social: { title: "Your result", type: "ARRAIGO SOCIAL", desc: "You may be eligible for arraigo social thanks to your family ties.", cta: true, checklist: ["Valid passport", "Criminal record certificate", "Padron (residence certificate)", "Proof of 3 years residence", "Employment contract", "Social integration report"] },
+      result_social: { title: "Your result", type: "ARRAIGO SOCIAL", desc: "You may be eligible for arraigo social thanks to your family ties.", cta: true, checklist: ["Valid passport", "Criminal record certificate", "Padron (residence certificate)", "Proof of 2 years residence", "Employment contract", "Social integration report"] },
       result_laboral: { title: "Your result", type: "ARRAIGO LABORAL", desc: "You may be eligible for arraigo laboral thanks to your work experience.", cta: true, checklist: ["Valid passport", "Criminal record certificate", "Padron (residence certificate)", "Proof of 6+ months of work", "Labor inspection report"] },
       result_formacion: { title: "Your result", type: "ARRAIGO POR FORMACIÓN", desc: "You may be eligible for arraigo por formación.", cta: true, checklist: ["Valid passport", "Criminal record certificate", "Padron (residence certificate)", "Vocational training enrollment", "Training center certificate"] },
       result_familiar: { title: "Your result", type: "ARRAIGO FAMILIAR", desc: "You may be eligible for arraigo familiar.", cta: true, checklist: ["Valid passport", "Criminal record certificate", "Child's birth certificate", "Proof of child's EU citizenship", "Padron (residence certificate)"] },
@@ -504,11 +537,11 @@ const funnelData = {
     endings: {
       end_eu: { title: "¡Buenas noticias!", desc: "Como ciudadano de la UE, tienes derecho a la libre circulación. No necesitas arraigo.", icon: "check" },
       end_renewal: { title: "Renovación necesaria", desc: "Puede que necesites una renovación. Contáctanos para verificar tu situación.", icon: "refresh", cta: true },
-      end_wait: { title: "Regularización Extraordinaria (2025)", desc: "Si estabas en España antes del 31 de dic. de 2025, podrías aplicar a la Regularización Extraordinaria (pendiente del BOE). Ingresa aquí para que podamos evaluarlo.", icon: "clock", email: true },
+      end_wait: { title: "Regularización Extraordinaria (2025)", desc: "Si estabas en España antes del 31 de dic. de 2025, podrías aplicar a la Regularización Extraordinaria (pendiente del BOE). Ingresa aquí para que podamos evaluarlo.", icon: "clock", cta: true },
       end_consult_absence: { title: "Consulta recomendada", desc: "Tus ausencias pueden afectar tu elegibilidad. Reserva una consulta personalizada.", icon: "alert", cta: true },
       end_consult_criminal: { title: "Consulta recomendada", desc: "Reserva una consulta para hablar de tu caso de forma confidencial.", icon: "alert", cta: true },
       result_sociolaboral: { title: "Tu resultado", type: "ARRAIGO SOCIOLABORAL", desc: "Podrías ser elegible para el arraigo sociolaboral gracias a tu oferta de empleo.", cta: true, checklist: ["Pasaporte válido", "Certificado de antecedentes penales", "Padrón (certificado de empadronamiento)", "Contrato de trabajo u oferta de empleo", "Informe de integración social"] },
-      result_social: { title: "Tu resultado", type: "ARRAIGO SOCIAL", desc: "Podrías ser elegible para el arraigo social gracias a tus vínculos familiares.", cta: true, checklist: ["Pasaporte válido", "Certificado de antecedentes penales", "Padrón (certificado de empadronamiento)", "Prueba de 3 años de residencia", "Contrato de trabajo", "Informe de integración social"] },
+      result_social: { title: "Tu resultado", type: "ARRAIGO SOCIAL", desc: "Podrías ser elegible para el arraigo social gracias a tus vínculos familiares.", cta: true, checklist: ["Pasaporte válido", "Certificado de antecedentes penales", "Padrón (certificado de empadronamiento)", "Prueba de 2 años de residencia", "Contrato de trabajo", "Informe de integración social"] },
       result_laboral: { title: "Tu resultado", type: "ARRAIGO LABORAL", desc: "Podrías ser elegible para el arraigo laboral gracias a tu experiencia laboral.", cta: true, checklist: ["Pasaporte válido", "Certificado de antecedentes penales", "Padrón (certificado de empadronamiento)", "Prueba de 6+ meses de trabajo", "Acta de inspección de trabajo"] },
       result_formacion: { title: "Tu resultado", type: "ARRAIGO POR FORMACIÓN", desc: "Podrías ser elegible para el arraigo por formación.", cta: true, checklist: ["Pasaporte válido", "Certificado de antecedentes penales", "Padrón (certificado de empadronamiento)", "Matrícula en formación profesional", "Certificado del centro de formación"] },
       result_familiar: { title: "Tu resultado", type: "ARRAIGO FAMILIAR", desc: "Podrías ser elegible para el arraigo familiar.", cta: true, checklist: ["Pasaporte válido", "Certificado de antecedentes penales", "Partida de nacimiento del hijo/a", "Prueba de ciudadanía UE del hijo/a", "Padrón (certificado de empadronamiento)"] },

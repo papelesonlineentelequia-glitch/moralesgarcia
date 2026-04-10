@@ -1,5 +1,5 @@
 // ============================================
-// PAPELES.ES — Main Application
+// MoralesGarcia — Main Application
 // ============================================
 
 (function() {
@@ -65,7 +65,7 @@
     document.querySelectorAll('[data-i18n]').forEach(el => {
       const key = el.getAttribute('data-i18n');
       if (t[key]) {
-        el.textContent = t[key];
+        el.innerHTML = t[key];
       }
     });
   }
@@ -226,14 +226,11 @@
     html += `<div class="funnel-result__actions">`;
 
     if (ending.cta) {
-      html += `<a href="https://calendar.app.google/15xYu6QGrX95KSiF9" target="_blank" rel="noopener noreferrer" class="btn btn--primary btn--lg">${data.cta_text}</a>`;
+      html += `<a href="https://buy.stripe.com/6oU9ATeWb7hpgE164MgrS03" target="_blank" rel="noopener noreferrer" class="btn btn--primary btn--lg">${data.cta_text}</a>`;
     }
 
     if (ending.email) {
-      let formUrl = 'https://www.notion.so/336c960bdd9580439968cfefa187672b?pvs=106'; // default FR
-      if (currentLang === 'es') formUrl = 'https://www.notion.so/336c960bdd9580339bffdbd30bfd52f9?pvs=106';
-      if (currentLang === 'en') formUrl = 'https://www.notion.so/336c960bdd9580d1b967f3a114455302?pvs=106';
-      
+      let formUrl = 'https://buy.stripe.com/6oU9ATeWb7hpgE164MgrS03';
       html += `<a href="${formUrl}" target="_blank" rel="noopener noreferrer" class="btn btn--primary btn--lg">${data.email_btn}</a>`;
     }
 
