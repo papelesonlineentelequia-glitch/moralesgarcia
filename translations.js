@@ -251,10 +251,10 @@ const translations = {
     pricing_roadmap: "Tu Hoja de Ruta Legal:",
     pricing_step1_title: "1. Estudio de Viabilidad (50 €)",
     pricing_step1_desc: "Revisamos tus antecedentes y pruebas de estancia de 5 meses para asegurar que no te denieguen el trámite. Al pagar, entras en nuestra <b>Lista Prioritaria</b> para presentar el primer día de plazo.",
-    pricing_step2_title: "2. Gestión Completa (350 € restantes)",
-    pricing_step2_desc: "Presentamos tu solicitud por vía telemática, gestionamos tus tasas y te acompañamos hasta que tengas tu TIE en la mano. <br><br><i>Nota: Los 50 € iniciales se descuentan del total (400 €). Si decides no seguir, solo habrás invertido 50 € en una asesoría experta en lugar de arriesgarte a una expulsión.</i>",
-    pricing_total: "Total: 400 €",
-    pricing_total_big: "Precio Total: 400 €",
+    pricing_step2_title: "2. Gestión Completa (150 € restantes)",
+    pricing_step2_desc: "Presentamos tu solicitud por vía telemática, gestionamos tus tasas y te acompañamos hasta que tengas tu TIE en la mano. <br><br><i>Nota: Los 50 € iniciales se descuentan del total (200 €). Si decides no seguir, solo habrás invertido 50 € en una asesoría experta en lugar de arriesgarte a una expulsión.</i>",
+    pricing_total: "Total: 200 €",
+    pricing_total_big: "Precio Total: 200 €",
     pricing_tax_included: "(Impuestos incluidos)",
   }
 };
